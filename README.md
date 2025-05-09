@@ -2,9 +2,7 @@
 
 A simple and responsive clone of the Google homepage built using **HTML**, **CSS**, and **JavaScript**.
 
-## 📸 Preview
 
-![Screenshot](screenshot.png) <!-- Replace with your actual screenshot path -->
 
 ---
 
@@ -27,25 +25,11 @@ A simple and responsive clone of the Google homepage built using **HTML**, **CSS
 
 ---
 
-## 🚀 How to Run
+## 📬 Contact
+Pritam Pandurang Lendale
+📧 Email: pritamlendale@gmail.com
+📱 Mobile: 7822058623
+🎓 BCA FY, Gyanadeep Mahavidyalaya Palam
+🌐 LinkedIn Profile 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/google-clone.git
-
-google-clone/
-├── index.html
-├── style.css
-├── script.js
-├── favicon.png
-├── images/
-│   ├── title.png
-│   ├── Google lens.png
-│   ├── search.png
-│   ├── mic.png
-│   ├── youtube.png
-│   ├── gmail.png
-│   ├── maps.png
-│   └── drive.png
-└── README.md
 

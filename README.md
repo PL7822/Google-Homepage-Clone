@@ -2,7 +2,7 @@
 
 A simple and responsive clone of the Google homepage built using **HTML**, **CSS**, and **JavaScript**.
 
-
+![Google Homepage Clone Screenshot](Screenshot%202025-07-23%20123625.png)
 
 ---
 
@@ -25,11 +25,13 @@ A simple and responsive clone of the Google homepage built using **HTML**, **CSS
 
 ---
 
-## 📬 Contact
-Pritam Pandurang Lendale
-📧 Email: pritamlendale@gmail.com
-📱 Mobile: 7822058623
-🎓 BCA FY, Gyanadeep Mahavidyalaya Palam
-🌐 LinkedIn Profile 
+## 🤝 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-lendale-398172353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🐙 [GitHub](https://github.com/PL7822?tab=repositories)  
+- 📧 Email: [pritamlendale@gmail.com](mailto:pritamlendale@gmail.com)
+
+---
+
 
 
